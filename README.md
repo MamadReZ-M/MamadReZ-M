@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Mohammadreza Mousavi, I am from Tehran, Iran. I am 25 years old.
+- 👀 I’m interested in web development, specifically PHP, WordPress, and MySQL.
+- 🌱 I’m currently learning advanced WordPress plugin development and AJAX.
+- 💞️ I’m looking to collaborate on innovative web development projects and open-source contributions.
+- 📫 How to reach me: [mamadrez.work@gmail.com] or [https://www.linkedin.com/in/mohammadreza-mousavi-8b3710290/?originalSubdomain=ir]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I developed my first website when I was just 15 years old.
